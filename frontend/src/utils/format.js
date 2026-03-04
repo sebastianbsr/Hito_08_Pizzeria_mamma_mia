@@ -1,0 +1,1 @@
+export const formatCLP = (value) => Number(value).toLocaleString("es-CL");
